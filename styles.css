@@ -1,0 +1,52 @@
+body{
+  background-color: #fefecc;
+}
+hr{
+
+   border-style:dotted hidden hidden hidden;
+border-color:#00ead3;
+border-width:5px;
+   width: 10%;
+}
+img{
+
+height:350px;
+width:350px;
+
+
+}table{
+    color:#4aa96c;
+
+}
+h1{
+  color:#00ead3;
+}
+h2{
+    color: #00ead3;
+}
+h3{
+    color: #00ead3;
+}h4{
+    color: #00ead3;
+}
+p{
+    color: #00ead3;
+}
+a{
+      color:green;
+}
+
+
+/*************class selectors***********/
+
+
+
+
+
+
+
+
+
+
+
+/*******************id selectors*****************/
